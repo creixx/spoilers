@@ -1,0 +1,8 @@
+{
+  "name": "spoilers",
+  "app_id": "b237faff",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
